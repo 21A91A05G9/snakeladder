@@ -1,5 +1,5 @@
 <?php 
-$db_server = "localhost";
+$db_server = "mysql-db";
 $db_user = "root";
 $db_pass = "root";
 $db_name = "snake_ladder";
